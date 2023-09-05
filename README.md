@@ -6,3 +6,6 @@
 <h2>Form Handling</h2>
 <h4>ScreenShot</h4>
 <img src="https://github.com/sivajisj/react-projects-practice/blob/main/form-validation.png" height=400 align="center" />
+<h2>Form Validation</h2>
+<h4>ScreenShot</h4>
+<img src="./fvalid.png" height=400 align="center" />
