@@ -11,3 +11,4 @@
 <img src="./fvalid.png" height=400 align="center" />
 ## more projects are being uploaded in a while 
 now focusing on building full stack apps 
+## React Practicing 15 projects
